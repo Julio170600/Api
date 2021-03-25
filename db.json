@@ -1,11 +1,32 @@
 {
-  "posts": [
+  "juegos": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "Tipo": "Shooter",
+      "Nombre": "Halo",
+      "Descripcion": "Es un videojuego de disparos en primera persona desarrollado por Microsoft Studios"
+    },
+    {
+      "Tipo": "Shooter",
+      "Nombre": "Call of Duty",
+      "Descripcion": "Es una serie de videojuegos de disparos en primera persona, de estilo bélico, inspirada en la guerra"
+    },
+    
+    {
+      "Tipo": "Carreras",
+      "Nombre": "Forza Horizon",
+      "Descripcion": "Es un juego de mundo abierto en torno a un festival ficticio llamado Horizon Festival, en Colorado, Estados Unidos."
+    },
+    
+    {
+      "Tipo": "Aventura",
+      "Nombre": "Minecraft",
+      "Descripcion": "Es un videojuego de construcción, de tipo «mundo abierto» o sandbox"
+    },
+    
+    {
+      "Tipo": "Aventura",
+      "Nombre": "Roblox",
+      "Descripcion": "Es un videojuego multijugador en línea en la que los usuarios pueden crear sus propios mundos virtuales e interactuar con otros usuarios"
+    },
+  ]
 }
