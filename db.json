@@ -1,32 +1,32 @@
 {
   "juegos": [
     {
-      "Tipo": "Shooter",
-      "Nombre": "Halo",
-      "Descripcion": "Es un videojuego de disparos en primera persona desarrollado por Microsoft Studios"
+      "Tipo": "Tipo de Juego: Shooter",
+      "Nombre": "Nombre del Juego: Halo",
+      "Descripcion": "Descripcion: Es un videojuego de disparos en primera persona desarrollado por Microsoft Studios"
     },
     {
-      "Tipo": "Shooter",
-      "Nombre": "Call of Duty",
-      "Descripcion": "Es una serie de videojuegos de disparos en primera persona, de estilo bélico, inspirada en la guerra"
-    },
-    
-    {
-      "Tipo": "Carreras",
-      "Nombre": "Forza Horizon",
-      "Descripcion": "Es un juego de mundo abierto en torno a un festival ficticio llamado Horizon Festival, en Colorado, Estados Unidos."
+      "Tipo": "Tipo de Juego: Shooter",
+      "Nombre": "Nombre del Juego: Call of Duty",
+      "Descripcion": "Descripcion: Es una serie de videojuegos de disparos en primera persona, de estilo bélico, inspirada en la guerra"
     },
     
     {
-      "Tipo": "Aventura",
-      "Nombre": "Minecraft",
-      "Descripcion": "Es un videojuego de construcción, de tipo «mundo abierto» o sandbox"
+      "Tipo": "Tipo de Juego: Carreras",
+      "Nombre": "Nombre del Juego: Forza Horizon",
+      "Descripcion": "Descripcion: Es un juego de mundo abierto en torno a un festival ficticio llamado Horizon Festival, en Colorado, Estados Unidos."
     },
     
     {
-      "Tipo": "Aventura",
-      "Nombre": "Roblox",
-      "Descripcion": "Es un videojuego multijugador en línea en la que los usuarios pueden crear sus propios mundos virtuales e interactuar con otros usuarios"
+      "Tipo": "Tipo de Juego: Aventura",
+      "Nombre": "Nombre del Juego: Minecraft",
+      "Descripcion": "Descripcion: Es un videojuego de construcción, de tipo «mundo abierto» o sandbox"
+    },
+    
+    {
+      "Tipo": "Tipo de Juego: Aventura",
+      "Nombre": "Nombre del Juego: Roblox",
+      "Descripcion": "Descripcion: Es un videojuego multijugador en línea en la que los usuarios pueden crear sus propios mundos virtuales e interactuar con otros usuarios"
     }
   ]
 }
