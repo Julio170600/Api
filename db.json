@@ -29,4 +29,55 @@
       "Descripcion": "Descripcion: Es un videojuego multijugador en línea en la que los usuarios pueden crear sus propios mundos virtuales e interactuar con otros usuarios"
     }
   ]
+  "computadoras": [
+    {
+      "Tipo": "Tipo: Nueva",
+      "Nombre": "Nombre del Vendedor: Gabriel Silva Martinez",
+      "Procesador": "Procesador: Core i9",
+      "Almacenamiento": "Almacenamiento: 250GB",
+      "Ram": "Memoria Ram: 8GB",
+      "Grafica": "Grafica: No incluye",
+      "Numero": "5534779592"
+    },
+    {      
+      "Tipo": "Tipo: Usada",
+      "Nombre": "Nombre del Vendedor: Maria Reyes Martinez",
+      "Procesador": "Procesador: Ryzen 5",
+      "Almacenamiento": "Almacenamiento: 500GB",
+      "Ram": "Memoria Ram: 4GB",
+      "Grafica": "Grafica: 2GB",
+      "Numero": "5545820192"
+    },
+    
+    {
+      
+      "Tipo": "Tipo: Usada",
+      "Nombre": "Nombre del Vendedor: Daniel Rodriguez Flores",
+      "Procesador": "Procesador: Ryzen 7",
+      "Almacenamiento": "Almacenamiento: 250GB",
+      "Ram": "Memoria Ram: 12GB",
+      "Grafica": "Grafica: 4GB",
+      "Numero": "5524761232"
+    },
+    
+    {      
+      "Tipo": "Tipo: Nueva",
+      "Nombre": "Nombre del Vendedor: Miguel Angel Alonso Cuellar",
+      "Procesador": "Procesador: Core i7",
+      "Almacenamiento": "Almacenamiento: 1TB",
+      "Ram": "Memoria Ram: 16GB",
+      "Grafica": "Grafica: 4GB",
+      "Numero": "5617672611"
+    },
+    
+    {      
+      "Tipo": "Tipo: Usada",
+      "Nombre": "Nombre del Vendedor: Julio Cesar Silva Martinez",
+      "Procesador": "Procesador: Ryzen 9",
+      "Almacenamiento": "Almacenamiento: 1TB",
+      "Ram": "Memoria Ram: 12GB",
+      "Grafica": "Grafica: No incluye",
+      "Numero": "5535761491"
+    }
+  ]
 }
